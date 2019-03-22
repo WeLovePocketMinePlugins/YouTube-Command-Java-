@@ -1,0 +1,18 @@
+name: YouTuberCoreV2
+version: 2.0.0
+main: me.ZeroBuddys.YouTuberCoreV2.Main
+api: ["1.0.8"]
+author: ZeroBuddys
+commands:
+  yt:
+    description: YT Command - YouTuberCore
+    usage: /yt
+  premium-plus:
+    description: Premium-Plus Command - YouTuberCore
+    usage: /premium-plus
+  dev:
+    description: Developer Command - YouTuberCore
+    usage: /dev
+  ranks-help:
+    description: Ranks Help Command - YouTuberCore
+    usage: /ranks-help
